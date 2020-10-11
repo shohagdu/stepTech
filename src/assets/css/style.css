@@ -10140,11 +10140,15 @@ header.masthead {
     padding-bottom: 6rem;
     text-align: center;
     color: #fff;
-    background-image: url("../img/header-bg.jpg");
+    background-image: url("../img/header-bg_2.jpg");
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
     background-size: cover;
+}
+#logo {
+    background-image: url("../img/navbar-logo.svg");
+
 }
 header.masthead .masthead-subheading {
     font-size: 1.5rem;
